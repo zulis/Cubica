@@ -1,0 +1,1860 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Scene>
+  <Objects>
+    <Object>
+      <Name>Mesh41</Name>
+      <FileName>Data\Objects\platforms\stone\box.x</FileName>
+      <IsAnimated>false</IsAnimated>
+      <CustomTexture>
+      </CustomTexture>
+      <ScaleTexture>1 1</ScaleTexture>
+      <Visible>true</Visible>
+      <Position>6 2 -12</Position>
+      <Rotation>0 0 0</Rotation>
+      <Scale>1 1 1</Scale>
+      <Lightning>true</Lightning>
+      <Mass>10</Mass>
+      <Bounding>Box</Bounding>
+      <StaticFriction>0.9</StaticFriction>
+      <KineticFriction>0.5</KineticFriction>
+      <Softness>0.1</Softness>
+      <Bounciness>0</Bounciness>
+      <CustomParameters>
+        <Parameter>
+          <Name>type</Name>
+          <Value>ground</Value>
+        </Parameter>
+      </CustomParameters>
+      <CustomScript>
+        <Enabled>true</Enabled>
+        <Script><![CDATA[function Mesh41_Init()
+  registerGroundObject(Mesh41)
+end
+
+function Mesh41_Update()
+end
+
+function Mesh41_Draw()
+end
+]]></Script>
+      </CustomScript>
+    </Object>
+    <Object>
+      <Name>Mesh38</Name>
+      <FileName>Data\Objects\platforms\stone\box.x</FileName>
+      <IsAnimated>false</IsAnimated>
+      <CustomTexture>
+      </CustomTexture>
+      <ScaleTexture>1 1</ScaleTexture>
+      <Visible>true</Visible>
+      <Position>6 2 -14</Position>
+      <Rotation>0 0 0</Rotation>
+      <Scale>1 1 1</Scale>
+      <Lightning>true</Lightning>
+      <Mass>10</Mass>
+      <Bounding>Box</Bounding>
+      <StaticFriction>0.9</StaticFriction>
+      <KineticFriction>0.5</KineticFriction>
+      <Softness>0.1</Softness>
+      <Bounciness>0</Bounciness>
+      <CustomParameters>
+        <Parameter>
+          <Name>type</Name>
+          <Value>ground</Value>
+        </Parameter>
+      </CustomParameters>
+      <CustomScript>
+        <Enabled>true</Enabled>
+        <Script><![CDATA[function Mesh38_Init()
+  registerGroundObject(Mesh38)
+end
+
+function Mesh38_Update()
+end
+
+function Mesh38_Draw()
+end
+]]></Script>
+      </CustomScript>
+    </Object>
+    <Object>
+      <Name>Mesh37</Name>
+      <FileName>Data\Objects\platforms\stone\box.x</FileName>
+      <IsAnimated>false</IsAnimated>
+      <CustomTexture>
+      </CustomTexture>
+      <ScaleTexture>1 1</ScaleTexture>
+      <Visible>true</Visible>
+      <Position>8 2 -14</Position>
+      <Rotation>0 0 0</Rotation>
+      <Scale>1 1 1</Scale>
+      <Lightning>true</Lightning>
+      <Mass>10</Mass>
+      <Bounding>Box</Bounding>
+      <StaticFriction>0.9</StaticFriction>
+      <KineticFriction>0.5</KineticFriction>
+      <Softness>0.1</Softness>
+      <Bounciness>0</Bounciness>
+      <CustomParameters>
+        <Parameter>
+          <Name>type</Name>
+          <Value>ground</Value>
+        </Parameter>
+      </CustomParameters>
+      <CustomScript>
+        <Enabled>true</Enabled>
+        <Script><![CDATA[function Mesh37_Init()
+  registerGroundObject(Mesh37)
+end
+
+function Mesh37_Update()
+end
+
+function Mesh37_Draw()
+end
+]]></Script>
+      </CustomScript>
+    </Object>
+    <Object>
+      <Name>Mesh36</Name>
+      <FileName>Data\Objects\platforms\stone\box.x</FileName>
+      <IsAnimated>false</IsAnimated>
+      <CustomTexture>
+      </CustomTexture>
+      <ScaleTexture>1 1</ScaleTexture>
+      <Visible>true</Visible>
+      <Position>10 2 -14</Position>
+      <Rotation>0 0 0</Rotation>
+      <Scale>1 1 1</Scale>
+      <Lightning>true</Lightning>
+      <Mass>10</Mass>
+      <Bounding>Box</Bounding>
+      <StaticFriction>0.9</StaticFriction>
+      <KineticFriction>0.5</KineticFriction>
+      <Softness>0.1</Softness>
+      <Bounciness>0</Bounciness>
+      <CustomParameters>
+        <Parameter>
+          <Name>type</Name>
+          <Value>ground</Value>
+        </Parameter>
+      </CustomParameters>
+      <CustomScript>
+        <Enabled>true</Enabled>
+        <Script><![CDATA[function Mesh36_Init()
+  registerGroundObject(Mesh36)
+end
+
+function Mesh36_Update()
+end
+
+function Mesh36_Draw()
+end
+]]></Script>
+      </CustomScript>
+    </Object>
+    <Object>
+      <Name>Mesh30</Name>
+      <FileName>Data\Objects\platforms\stone\box.x</FileName>
+      <IsAnimated>false</IsAnimated>
+      <CustomTexture>
+      </CustomTexture>
+      <ScaleTexture>1 1</ScaleTexture>
+      <Visible>true</Visible>
+      <Position>10 2 -12</Position>
+      <Rotation>0 0 0</Rotation>
+      <Scale>1 1 1</Scale>
+      <Lightning>true</Lightning>
+      <Mass>10</Mass>
+      <Bounding>Box</Bounding>
+      <StaticFriction>0.9</StaticFriction>
+      <KineticFriction>0.5</KineticFriction>
+      <Softness>0.1</Softness>
+      <Bounciness>0</Bounciness>
+      <CustomParameters>
+        <Parameter>
+          <Name>type</Name>
+          <Value>ground</Value>
+        </Parameter>
+      </CustomParameters>
+      <CustomScript>
+        <Enabled>true</Enabled>
+        <Script><![CDATA[function Mesh30_Init()
+  registerGroundObject(Mesh30)
+end
+
+function Mesh30_Update()
+end
+
+function Mesh30_Draw()
+end
+]]></Script>
+      </CustomScript>
+    </Object>
+    <Object>
+      <Name>Mesh29</Name>
+      <FileName>Data\Objects\platforms\stone\box.x</FileName>
+      <IsAnimated>false</IsAnimated>
+      <CustomTexture>
+      </CustomTexture>
+      <ScaleTexture>1 1</ScaleTexture>
+      <Visible>true</Visible>
+      <Position>10 2 -10</Position>
+      <Rotation>0 0 0</Rotation>
+      <Scale>1 1 1</Scale>
+      <Lightning>true</Lightning>
+      <Mass>10</Mass>
+      <Bounding>Box</Bounding>
+      <StaticFriction>0.9</StaticFriction>
+      <KineticFriction>0.5</KineticFriction>
+      <Softness>0.1</Softness>
+      <Bounciness>0</Bounciness>
+      <CustomParameters>
+        <Parameter>
+          <Name>type</Name>
+          <Value>ground</Value>
+        </Parameter>
+      </CustomParameters>
+      <CustomScript>
+        <Enabled>true</Enabled>
+        <Script><![CDATA[function Mesh29_Init()
+  registerGroundObject(Mesh29)
+end
+
+function Mesh29_Update()
+end
+
+function Mesh29_Draw()
+end
+]]></Script>
+      </CustomScript>
+    </Object>
+    <Object>
+      <Name>Mesh28</Name>
+      <FileName>Data\Objects\platforms\stone\box.x</FileName>
+      <IsAnimated>false</IsAnimated>
+      <CustomTexture>
+      </CustomTexture>
+      <ScaleTexture>1 1</ScaleTexture>
+      <Visible>true</Visible>
+      <Position>8 2 -10</Position>
+      <Rotation>0 0 0</Rotation>
+      <Scale>1 1 1</Scale>
+      <Lightning>true</Lightning>
+      <Mass>10</Mass>
+      <Bounding>Box</Bounding>
+      <StaticFriction>0.9</StaticFriction>
+      <KineticFriction>0.5</KineticFriction>
+      <Softness>0.1</Softness>
+      <Bounciness>0</Bounciness>
+      <CustomParameters>
+        <Parameter>
+          <Name>type</Name>
+          <Value>ground</Value>
+        </Parameter>
+      </CustomParameters>
+      <CustomScript>
+        <Enabled>true</Enabled>
+        <Script><![CDATA[function Mesh28_Init()
+  registerGroundObject(Mesh28)
+end
+
+function Mesh28_Update()
+end
+
+function Mesh28_Draw()
+end
+]]></Script>
+      </CustomScript>
+    </Object>
+    <Object>
+      <Name>Mesh40</Name>
+      <FileName>Data\Objects\platforms\stone\box.x</FileName>
+      <IsAnimated>false</IsAnimated>
+      <CustomTexture>
+      </CustomTexture>
+      <ScaleTexture>1 1</ScaleTexture>
+      <Visible>true</Visible>
+      <Position>-4 2 -4</Position>
+      <Rotation>0 0 0</Rotation>
+      <Scale>1 1 1</Scale>
+      <Lightning>true</Lightning>
+      <Mass>10</Mass>
+      <Bounding>Box</Bounding>
+      <StaticFriction>0.9</StaticFriction>
+      <KineticFriction>0.5</KineticFriction>
+      <Softness>0.1</Softness>
+      <Bounciness>0</Bounciness>
+      <CustomParameters>
+        <Parameter>
+          <Name>type</Name>
+          <Value>ground</Value>
+        </Parameter>
+      </CustomParameters>
+      <CustomScript>
+        <Enabled>true</Enabled>
+        <Script><![CDATA[function Mesh40_Init()
+	registerGroundObject(Mesh40)
+end
+
+function Mesh40_Update()
+end
+
+function Mesh40_Draw()
+end
+]]></Script>
+      </CustomScript>
+    </Object>
+    <Object>
+      <Name>Mesh39</Name>
+      <FileName>Data\Objects\platforms\stone\box.x</FileName>
+      <IsAnimated>false</IsAnimated>
+      <CustomTexture>
+      </CustomTexture>
+      <ScaleTexture>1 1</ScaleTexture>
+      <Visible>true</Visible>
+      <Position>-4 2 0</Position>
+      <Rotation>0 0 0</Rotation>
+      <Scale>1 1 1</Scale>
+      <Lightning>true</Lightning>
+      <Mass>10</Mass>
+      <Bounding>Box</Bounding>
+      <StaticFriction>0.9</StaticFriction>
+      <KineticFriction>0.5</KineticFriction>
+      <Softness>0.1</Softness>
+      <Bounciness>0</Bounciness>
+      <CustomParameters>
+        <Parameter>
+          <Name>type</Name>
+          <Value>ground</Value>
+        </Parameter>
+      </CustomParameters>
+      <CustomScript>
+        <Enabled>true</Enabled>
+        <Script><![CDATA[function Mesh39_Init()
+	registerGroundObject(Mesh39)
+end
+
+function Mesh39_Update()
+end
+
+function Mesh39_Draw()
+end
+]]></Script>
+      </CustomScript>
+    </Object>
+    <Object>
+      <Name>Mesh35</Name>
+      <FileName>Data\Objects\platforms\stone\box.x</FileName>
+      <IsAnimated>false</IsAnimated>
+      <CustomTexture>
+      </CustomTexture>
+      <ScaleTexture>1 1</ScaleTexture>
+      <Visible>true</Visible>
+      <Position>-8 2 -2</Position>
+      <Rotation>0 0 0</Rotation>
+      <Scale>1 1 1</Scale>
+      <Lightning>true</Lightning>
+      <Mass>10</Mass>
+      <Bounding>Box</Bounding>
+      <StaticFriction>0.9</StaticFriction>
+      <KineticFriction>0.5</KineticFriction>
+      <Softness>0.1</Softness>
+      <Bounciness>0</Bounciness>
+      <CustomParameters>
+        <Parameter>
+          <Name>type</Name>
+          <Value>ground</Value>
+        </Parameter>
+      </CustomParameters>
+      <CustomScript>
+        <Enabled>true</Enabled>
+        <Script><![CDATA[function Mesh35_Init()
+	registerGroundObject(Mesh35)
+end
+
+function Mesh35_Update()
+end
+
+function Mesh35_Draw()
+end
+]]></Script>
+      </CustomScript>
+    </Object>
+    <Object>
+      <Name>Mesh34</Name>
+      <FileName>Data\Objects\platforms\stone\box.x</FileName>
+      <IsAnimated>false</IsAnimated>
+      <CustomTexture>
+      </CustomTexture>
+      <ScaleTexture>1 1</ScaleTexture>
+      <Visible>true</Visible>
+      <Position>-6 2 -2</Position>
+      <Rotation>0 0 0</Rotation>
+      <Scale>1 1 1</Scale>
+      <Lightning>true</Lightning>
+      <Mass>10</Mass>
+      <Bounding>Box</Bounding>
+      <StaticFriction>0.9</StaticFriction>
+      <KineticFriction>0.5</KineticFriction>
+      <Softness>0.1</Softness>
+      <Bounciness>0</Bounciness>
+      <CustomParameters>
+        <Parameter>
+          <Name>type</Name>
+          <Value>ground</Value>
+        </Parameter>
+      </CustomParameters>
+      <CustomScript>
+        <Enabled>true</Enabled>
+        <Script><![CDATA[function Mesh34_Init()
+	registerGroundObject(Mesh34)
+end
+
+function Mesh34_Update()
+end
+
+function Mesh34_Draw()
+end
+]]></Script>
+      </CustomScript>
+    </Object>
+    <Object>
+      <Name>Mesh33</Name>
+      <FileName>Data\Objects\platforms\stone\box.x</FileName>
+      <IsAnimated>false</IsAnimated>
+      <CustomTexture>
+      </CustomTexture>
+      <ScaleTexture>1 1</ScaleTexture>
+      <Visible>true</Visible>
+      <Position>6 2 -8</Position>
+      <Rotation>0 0 0</Rotation>
+      <Scale>1 1 1</Scale>
+      <Lightning>true</Lightning>
+      <Mass>10</Mass>
+      <Bounding>Box</Bounding>
+      <StaticFriction>0.9</StaticFriction>
+      <KineticFriction>0.5</KineticFriction>
+      <Softness>0.1</Softness>
+      <Bounciness>0</Bounciness>
+      <CustomParameters>
+        <Parameter>
+          <Name>type</Name>
+          <Value>ground</Value>
+        </Parameter>
+      </CustomParameters>
+      <CustomScript>
+        <Enabled>true</Enabled>
+        <Script><![CDATA[function Mesh33_Init()
+	registerGroundObject(Mesh33)
+end
+
+function Mesh33_Update()
+end
+
+function Mesh33_Draw()
+end
+]]></Script>
+      </CustomScript>
+    </Object>
+    <Object>
+      <Name>Mesh32</Name>
+      <FileName>Data\Objects\platforms\stone\box.x</FileName>
+      <IsAnimated>false</IsAnimated>
+      <CustomTexture>
+      </CustomTexture>
+      <ScaleTexture>1 1</ScaleTexture>
+      <Visible>true</Visible>
+      <Position>2 2 -2</Position>
+      <Rotation>0 0 0</Rotation>
+      <Scale>1 1 1</Scale>
+      <Lightning>true</Lightning>
+      <Mass>10</Mass>
+      <Bounding>Box</Bounding>
+      <StaticFriction>0.9</StaticFriction>
+      <KineticFriction>0.5</KineticFriction>
+      <Softness>0.1</Softness>
+      <Bounciness>0</Bounciness>
+      <CustomParameters>
+        <Parameter>
+          <Name>type</Name>
+          <Value>ground</Value>
+        </Parameter>
+      </CustomParameters>
+      <CustomScript>
+        <Enabled>true</Enabled>
+        <Script><![CDATA[function Mesh32_Init()
+	registerGroundObject(Mesh32)
+end
+
+function Mesh32_Update()
+end
+
+function Mesh32_Draw()
+end
+]]></Script>
+      </CustomScript>
+    </Object>
+    <Object>
+      <Name>Mesh31</Name>
+      <FileName>Data\Objects\platforms\stone\box.x</FileName>
+      <IsAnimated>false</IsAnimated>
+      <CustomTexture>
+      </CustomTexture>
+      <ScaleTexture>1 1</ScaleTexture>
+      <Visible>true</Visible>
+      <Position>-2 2 -2</Position>
+      <Rotation>0 0 0</Rotation>
+      <Scale>1 1 1</Scale>
+      <Lightning>true</Lightning>
+      <Mass>10</Mass>
+      <Bounding>Box</Bounding>
+      <StaticFriction>0.9</StaticFriction>
+      <KineticFriction>0.5</KineticFriction>
+      <Softness>0.1</Softness>
+      <Bounciness>0</Bounciness>
+      <CustomParameters>
+        <Parameter>
+          <Name>type</Name>
+          <Value>ground</Value>
+        </Parameter>
+      </CustomParameters>
+      <CustomScript>
+        <Enabled>true</Enabled>
+        <Script><![CDATA[function Mesh31_Init()
+	registerGroundObject(Mesh31)
+end
+
+function Mesh31_Update()
+end
+
+function Mesh31_Draw()
+end
+]]></Script>
+      </CustomScript>
+    </Object>
+    <Object>
+      <Name>Mesh23</Name>
+      <FileName>Data\Objects\background\roma1.X</FileName>
+      <IsAnimated>false</IsAnimated>
+      <CustomTexture>
+      </CustomTexture>
+      <ScaleTexture>1 1</ScaleTexture>
+      <Visible>true</Visible>
+      <Position>7 -6 10</Position>
+      <Rotation>0 0 0</Rotation>
+      <Scale>0.02 0.02 0.02</Scale>
+      <Lightning>true</Lightning>
+      <Mass>0</Mass>
+      <Bounding>Convexhull</Bounding>
+      <StaticFriction>0.9</StaticFriction>
+      <KineticFriction>0.5</KineticFriction>
+      <Softness>0.1</Softness>
+      <Bounciness>0</Bounciness>
+      <CustomParameters>
+        <Parameter>
+          <Name>type</Name>
+          <Value>background</Value>
+        </Parameter>
+      </CustomParameters>
+      <CustomScript>
+        <Enabled>false</Enabled>
+        <Script><![CDATA[function Mesh23_Init()
+end
+
+function Mesh23_Update()
+end
+
+function Mesh23_Draw()
+end
+]]></Script>
+      </CustomScript>
+    </Object>
+    <Object>
+      <Name>Mesh26</Name>
+      <FileName>Data\Objects\platforms\stone\box.x</FileName>
+      <IsAnimated>false</IsAnimated>
+      <CustomTexture>
+      </CustomTexture>
+      <ScaleTexture>1 1</ScaleTexture>
+      <Visible>true</Visible>
+      <Position>8 2 -6</Position>
+      <Rotation>0 0 0</Rotation>
+      <Scale>1 1 1</Scale>
+      <Lightning>true</Lightning>
+      <Mass>10</Mass>
+      <Bounding>Box</Bounding>
+      <StaticFriction>0.9</StaticFriction>
+      <KineticFriction>0.5</KineticFriction>
+      <Softness>0.1</Softness>
+      <Bounciness>0</Bounciness>
+      <CustomParameters>
+        <Parameter>
+          <Name>type</Name>
+          <Value>ground</Value>
+        </Parameter>
+      </CustomParameters>
+      <CustomScript>
+        <Enabled>true</Enabled>
+        <Script><![CDATA[function Mesh26_Init()
+  registerGroundObject(Mesh26)
+end
+
+function Mesh26_Update()
+end
+
+function Mesh26_Draw()
+end
+]]></Script>
+      </CustomScript>
+    </Object>
+    <Object>
+      <Name>Mesh25</Name>
+      <FileName>Data\Objects\platforms\stone\box.x</FileName>
+      <IsAnimated>false</IsAnimated>
+      <CustomTexture>
+      </CustomTexture>
+      <ScaleTexture>1 1</ScaleTexture>
+      <Visible>true</Visible>
+      <Position>8 2 -4</Position>
+      <Rotation>0 0 0</Rotation>
+      <Scale>1 1 1</Scale>
+      <Lightning>true</Lightning>
+      <Mass>10</Mass>
+      <Bounding>Box</Bounding>
+      <StaticFriction>0.9</StaticFriction>
+      <KineticFriction>0.5</KineticFriction>
+      <Softness>0.1</Softness>
+      <Bounciness>0</Bounciness>
+      <CustomParameters>
+        <Parameter>
+          <Name>type</Name>
+          <Value>ground</Value>
+        </Parameter>
+      </CustomParameters>
+      <CustomScript>
+        <Enabled>true</Enabled>
+        <Script><![CDATA[function Mesh25_Init()
+  registerGroundObject(Mesh25)
+end
+
+function Mesh25_Update()
+end
+
+function Mesh25_Draw()
+end
+]]></Script>
+      </CustomScript>
+    </Object>
+    <Object>
+      <Name>Mesh22</Name>
+      <FileName>Data\Objects\platforms\stone\box.x</FileName>
+      <IsAnimated>false</IsAnimated>
+      <CustomTexture>
+      </CustomTexture>
+      <ScaleTexture>1 1</ScaleTexture>
+      <Visible>true</Visible>
+      <Position>6 2 -10</Position>
+      <Rotation>0 0 0</Rotation>
+      <Scale>1 1 1</Scale>
+      <Lightning>true</Lightning>
+      <Mass>10</Mass>
+      <Bounding>Box</Bounding>
+      <StaticFriction>0.9</StaticFriction>
+      <KineticFriction>0.5</KineticFriction>
+      <Softness>0.1</Softness>
+      <Bounciness>0</Bounciness>
+      <CustomParameters>
+        <Parameter>
+          <Name>type</Name>
+          <Value>ground</Value>
+        </Parameter>
+      </CustomParameters>
+      <CustomScript>
+        <Enabled>true</Enabled>
+        <Script><![CDATA[function Mesh22_Init()
+  registerGroundObject(Mesh22)
+end
+
+function Mesh22_Update()
+end
+
+function Mesh22_Draw()
+end
+]]></Script>
+      </CustomScript>
+    </Object>
+    <Object>
+      <Name>Mesh19</Name>
+      <FileName>Data\Objects\platforms\stone\box.x</FileName>
+      <IsAnimated>false</IsAnimated>
+      <CustomTexture>
+      </CustomTexture>
+      <ScaleTexture>1 1</ScaleTexture>
+      <Visible>true</Visible>
+      <Position>8 2 -2</Position>
+      <Rotation>0 0 0</Rotation>
+      <Scale>1 1 1</Scale>
+      <Lightning>true</Lightning>
+      <Mass>10</Mass>
+      <Bounding>Box</Bounding>
+      <StaticFriction>0.9</StaticFriction>
+      <KineticFriction>0.5</KineticFriction>
+      <Softness>0.1</Softness>
+      <Bounciness>0</Bounciness>
+      <CustomParameters>
+        <Parameter>
+          <Name>type</Name>
+          <Value>ground</Value>
+        </Parameter>
+      </CustomParameters>
+      <CustomScript>
+        <Enabled>true</Enabled>
+        <Script><![CDATA[function Mesh19_Init()
+  registerGroundObject(Mesh19)
+end
+
+function Mesh19_Update()
+end
+
+function Mesh19_Draw()
+end
+]]></Script>
+      </CustomScript>
+    </Object>
+    <Object>
+      <Name>Mesh5</Name>
+      <FileName>Data\Objects\platforms\stone\box.x</FileName>
+      <IsAnimated>false</IsAnimated>
+      <CustomTexture>
+      </CustomTexture>
+      <ScaleTexture>1 1</ScaleTexture>
+      <Visible>true</Visible>
+      <Position>10 2 -8</Position>
+      <Rotation>0 0 0</Rotation>
+      <Scale>1 1 1</Scale>
+      <Lightning>true</Lightning>
+      <Mass>10</Mass>
+      <Bounding>Box</Bounding>
+      <StaticFriction>0.9</StaticFriction>
+      <KineticFriction>0.5</KineticFriction>
+      <Softness>0.1</Softness>
+      <Bounciness>0</Bounciness>
+      <CustomParameters>
+        <Parameter>
+          <Name>type</Name>
+          <Value>ground</Value>
+        </Parameter>
+      </CustomParameters>
+      <CustomScript>
+        <Enabled>true</Enabled>
+        <Script><![CDATA[function Mesh5_Init()
+  registerGroundObject(Mesh5)
+end
+
+function Mesh5_Update()
+end
+
+function Mesh5_Draw()
+end
+]]></Script>
+      </CustomScript>
+    </Object>
+    <Object>
+      <Name>Cube</Name>
+      <FileName>Data\Objects\cube\cube.x</FileName>
+      <IsAnimated>false</IsAnimated>
+      <CustomTexture>
+      </CustomTexture>
+      <ScaleTexture>1 1</ScaleTexture>
+      <Visible>true</Visible>
+      <Position>-8 5 -2</Position>
+      <Rotation>0 0 0</Rotation>
+      <Scale>1 1 1</Scale>
+      <Lightning>true</Lightning>
+      <Mass>10</Mass>
+      <Bounding>Box</Bounding>
+      <StaticFriction>0.9</StaticFriction>
+      <KineticFriction>0.5</KineticFriction>
+      <Softness>0.1</Softness>
+      <Bounciness>0</Bounciness>
+      <CustomParameters>
+      </CustomParameters>
+      <CustomScript>
+        <Enabled>true</Enabled>
+        <Script><![CDATA[function Cube_Init()
+	cube = cube.create(Cube)
+	camera = camera.create(Camera)
+end
+
+function Cube_Update()
+	cube:update()
+	--FinishPrc:Move(Cube:GetMinBBox())
+end
+]]></Script>
+      </CustomScript>
+    </Object>
+    <Object>
+      <Name>Mesh13</Name>
+      <FileName>Data\Objects\platforms\stone\box.x</FileName>
+      <IsAnimated>false</IsAnimated>
+      <CustomTexture>
+      </CustomTexture>
+      <ScaleTexture>1 1</ScaleTexture>
+      <Visible>true</Visible>
+      <Position>-4 2 -2</Position>
+      <Rotation>0 0 0</Rotation>
+      <Scale>1 1 1</Scale>
+      <Lightning>true</Lightning>
+      <Mass>10</Mass>
+      <Bounding>Box</Bounding>
+      <StaticFriction>0.9</StaticFriction>
+      <KineticFriction>0.5</KineticFriction>
+      <Softness>0.1</Softness>
+      <Bounciness>0</Bounciness>
+      <CustomParameters>
+      </CustomParameters>
+      <CustomScript>
+        <Enabled>true</Enabled>
+        <Script><![CDATA[function Mesh13_Init()
+  registerGroundObject(Mesh13)
+end
+
+function Mesh13_Update()
+end
+
+function Mesh13_Draw()
+end
+]]></Script>
+      </CustomScript>
+    </Object>
+    <Object>
+      <Name>Mesh14</Name>
+      <FileName>Data\Objects\platforms\stone\box.x</FileName>
+      <IsAnimated>false</IsAnimated>
+      <CustomTexture>
+      </CustomTexture>
+      <ScaleTexture>1 1</ScaleTexture>
+      <Visible>true</Visible>
+      <Position>-8 2 -4</Position>
+      <Rotation>0 0 0</Rotation>
+      <Scale>1 1 1</Scale>
+      <Lightning>true</Lightning>
+      <Mass>10</Mass>
+      <Bounding>Box</Bounding>
+      <StaticFriction>0.9</StaticFriction>
+      <KineticFriction>0.5</KineticFriction>
+      <Softness>0.1</Softness>
+      <Bounciness>0</Bounciness>
+      <CustomParameters>
+        <Parameter>
+          <Name>type</Name>
+          <Value>ground</Value>
+        </Parameter>
+      </CustomParameters>
+      <CustomScript>
+        <Enabled>true</Enabled>
+        <Script><![CDATA[function Mesh14_Init()
+  registerGroundObject(Mesh14)
+end
+
+function Mesh14_Update()
+end
+
+function Mesh14_Draw()
+end
+]]></Script>
+      </CustomScript>
+    </Object>
+    <Object>
+      <Name>Mesh15</Name>
+      <FileName>Data\Objects\platforms\stone\box.x</FileName>
+      <IsAnimated>false</IsAnimated>
+      <CustomTexture>
+      </CustomTexture>
+      <ScaleTexture>1 1</ScaleTexture>
+      <Visible>true</Visible>
+      <Position>-6 2 -4</Position>
+      <Rotation>0 0 0</Rotation>
+      <Scale>1 1 1</Scale>
+      <Lightning>true</Lightning>
+      <Mass>10</Mass>
+      <Bounding>Box</Bounding>
+      <StaticFriction>0.9</StaticFriction>
+      <KineticFriction>0.5</KineticFriction>
+      <Softness>0.1</Softness>
+      <Bounciness>0</Bounciness>
+      <CustomParameters>
+      </CustomParameters>
+      <CustomScript>
+        <Enabled>true</Enabled>
+        <Script><![CDATA[function Mesh15_Init()
+  registerGroundObject(Mesh15)
+end
+
+function Mesh15_Update()
+end
+
+function Mesh15_Draw()
+end
+]]></Script>
+      </CustomScript>
+    </Object>
+    <Object>
+      <Name>Mesh17</Name>
+      <FileName>Data\Objects\platforms\stone\box.x</FileName>
+      <IsAnimated>false</IsAnimated>
+      <CustomTexture>
+      </CustomTexture>
+      <ScaleTexture>1 1</ScaleTexture>
+      <Visible>true</Visible>
+      <Position>-6 2 0</Position>
+      <Rotation>0 0 0</Rotation>
+      <Scale>1 1 1</Scale>
+      <Lightning>true</Lightning>
+      <Mass>10</Mass>
+      <Bounding>Box</Bounding>
+      <StaticFriction>0.9</StaticFriction>
+      <KineticFriction>0.5</KineticFriction>
+      <Softness>0.1</Softness>
+      <Bounciness>0</Bounciness>
+      <CustomParameters>
+      </CustomParameters>
+      <CustomScript>
+        <Enabled>true</Enabled>
+        <Script><![CDATA[function Mesh17_Init()
+  registerGroundObject(Mesh17)
+end
+
+function Mesh17_Update()
+end
+
+function Mesh17_Draw()
+end
+]]></Script>
+      </CustomScript>
+    </Object>
+    <Object>
+      <Name>Mesh18</Name>
+      <FileName>Data\Objects\platforms\stone\box.x</FileName>
+      <IsAnimated>false</IsAnimated>
+      <CustomTexture>
+      </CustomTexture>
+      <ScaleTexture>1 1</ScaleTexture>
+      <Visible>true</Visible>
+      <Position>-8 2 0</Position>
+      <Rotation>0 0 0</Rotation>
+      <Scale>1 1 1</Scale>
+      <Lightning>true</Lightning>
+      <Mass>10</Mass>
+      <Bounding>Box</Bounding>
+      <StaticFriction>0.9</StaticFriction>
+      <KineticFriction>0.5</KineticFriction>
+      <Softness>0.1</Softness>
+      <Bounciness>0</Bounciness>
+      <CustomParameters>
+      </CustomParameters>
+      <CustomScript>
+        <Enabled>true</Enabled>
+        <Script><![CDATA[function Mesh18_Init()
+  registerGroundObject(Mesh18)
+end
+
+function Mesh18_Update()
+end
+
+function Mesh18_Draw()
+end
+]]></Script>
+      </CustomScript>
+    </Object>
+    <Object>
+      <Name>Mesh20</Name>
+      <FileName>Data\Objects\platforms\stone\box.x</FileName>
+      <IsAnimated>false</IsAnimated>
+      <CustomTexture>
+      </CustomTexture>
+      <ScaleTexture>1 1</ScaleTexture>
+      <Visible>true</Visible>
+      <Position>-10 2 -4</Position>
+      <Rotation>0 0 0</Rotation>
+      <Scale>1 1 1</Scale>
+      <Lightning>true</Lightning>
+      <Mass>10</Mass>
+      <Bounding>Box</Bounding>
+      <StaticFriction>0.9</StaticFriction>
+      <KineticFriction>0.5</KineticFriction>
+      <Softness>0.1</Softness>
+      <Bounciness>0</Bounciness>
+      <CustomParameters>
+        <Parameter>
+          <Name>type</Name>
+          <Value>ground</Value>
+        </Parameter>
+      </CustomParameters>
+      <CustomScript>
+        <Enabled>true</Enabled>
+        <Script><![CDATA[function Mesh20_Init()
+  registerGroundObject(Mesh20)
+end
+
+function Mesh20_Update()
+end
+
+function Mesh20_Draw()
+end
+]]></Script>
+      </CustomScript>
+    </Object>
+    <Object>
+      <Name>Mesh21</Name>
+      <FileName>Data\Objects\platforms\stone\box.x</FileName>
+      <IsAnimated>false</IsAnimated>
+      <CustomTexture>
+      </CustomTexture>
+      <ScaleTexture>1 1</ScaleTexture>
+      <Visible>true</Visible>
+      <Position>-10 2 0</Position>
+      <Rotation>0 0 0</Rotation>
+      <Scale>1 1 1</Scale>
+      <Lightning>true</Lightning>
+      <Mass>10</Mass>
+      <Bounding>Box</Bounding>
+      <StaticFriction>0.9</StaticFriction>
+      <KineticFriction>0.5</KineticFriction>
+      <Softness>0.1</Softness>
+      <Bounciness>0</Bounciness>
+      <CustomParameters>
+        <Parameter>
+          <Name>type</Name>
+          <Value>ground</Value>
+        </Parameter>
+      </CustomParameters>
+      <CustomScript>
+        <Enabled>true</Enabled>
+        <Script><![CDATA[function Mesh21_Init()
+  registerGroundObject(Mesh21)
+end
+
+function Mesh21_Update()
+end
+
+function Mesh21_Draw()
+end
+]]></Script>
+      </CustomScript>
+    </Object>
+    <Object>
+      <Name>Mesh16</Name>
+      <FileName>Data\Objects\platforms\stone\box.x</FileName>
+      <IsAnimated>false</IsAnimated>
+      <CustomTexture>
+      </CustomTexture>
+      <ScaleTexture>1 1</ScaleTexture>
+      <Visible>true</Visible>
+      <Position>-10 2 -2</Position>
+      <Rotation>0 0 0</Rotation>
+      <Scale>1 1 1</Scale>
+      <Lightning>true</Lightning>
+      <Mass>10</Mass>
+      <Bounding>Box</Bounding>
+      <StaticFriction>0.9</StaticFriction>
+      <KineticFriction>0.5</KineticFriction>
+      <Softness>0.1</Softness>
+      <Bounciness>0</Bounciness>
+      <CustomParameters>
+        <Parameter>
+          <Name>type</Name>
+          <Value>ground</Value>
+        </Parameter>
+      </CustomParameters>
+      <CustomScript>
+        <Enabled>true</Enabled>
+        <Script><![CDATA[function Mesh16_Init()
+  registerGroundObject(Mesh16)
+end
+
+function Mesh16_Update()
+end
+
+function Mesh16_Draw()
+end
+]]></Script>
+      </CustomScript>
+    </Object>
+    <Object>
+      <Name>Mesh24</Name>
+      <FileName>Data\Objects\platforms\stone\box.x</FileName>
+      <IsAnimated>false</IsAnimated>
+      <CustomTexture>
+      </CustomTexture>
+      <ScaleTexture>1 1</ScaleTexture>
+      <Visible>true</Visible>
+      <Position>8 2 -8</Position>
+      <Rotation>0 0 0</Rotation>
+      <Scale>1 1 1</Scale>
+      <Lightning>true</Lightning>
+      <Mass>10</Mass>
+      <Bounding>Box</Bounding>
+      <StaticFriction>0.9</StaticFriction>
+      <KineticFriction>0.5</KineticFriction>
+      <Softness>0.1</Softness>
+      <Bounciness>0</Bounciness>
+      <CustomParameters>
+        <Parameter>
+          <Name>type</Name>
+          <Value>ground</Value>
+        </Parameter>
+      </CustomParameters>
+      <CustomScript>
+        <Enabled>true</Enabled>
+        <Script><![CDATA[function Mesh24_Init()
+	registerGroundObject(Mesh24)
+end
+
+function Mesh24_Update()
+end
+
+function Mesh24_Draw()
+end
+]]></Script>
+      </CustomScript>
+    </Object>
+    <Object>
+      <Name>Mesh27</Name>
+      <FileName>Data\Objects\platforms\stone\box.x</FileName>
+      <IsAnimated>false</IsAnimated>
+      <CustomTexture>
+      </CustomTexture>
+      <ScaleTexture>1 1</ScaleTexture>
+      <Visible>true</Visible>
+      <Position>6 2 -2</Position>
+      <Rotation>0 0 0</Rotation>
+      <Scale>1 1 1</Scale>
+      <Lightning>true</Lightning>
+      <Mass>10</Mass>
+      <Bounding>Box</Bounding>
+      <StaticFriction>0.9</StaticFriction>
+      <KineticFriction>0.5</KineticFriction>
+      <Softness>0.1</Softness>
+      <Bounciness>0</Bounciness>
+      <CustomParameters>
+        <Parameter>
+          <Name>type</Name>
+          <Value>ground</Value>
+        </Parameter>
+      </CustomParameters>
+      <CustomScript>
+        <Enabled>true</Enabled>
+        <Script><![CDATA[function Mesh27_Init()
+	registerGroundObject(Mesh27)
+end
+
+function Mesh27_Update()
+end
+
+function Mesh27_Draw()
+end
+]]></Script>
+      </CustomScript>
+    </Object>
+    <Object>
+      <Name>Mesh42</Name>
+      <FileName>Data\Objects\platforms\wood\wood.x</FileName>
+      <IsAnimated>false</IsAnimated>
+      <CustomTexture>
+      </CustomTexture>
+      <ScaleTexture>1 1</ScaleTexture>
+      <Visible>true</Visible>
+      <Position>0 2.95 -2</Position>
+      <Rotation>0 0 0</Rotation>
+      <Scale>1 1 1</Scale>
+      <Lightning>true</Lightning>
+      <Mass>10</Mass>
+      <Bounding>Box</Bounding>
+      <StaticFriction>0.5</StaticFriction>
+      <KineticFriction>0.2</KineticFriction>
+      <Softness>0.1</Softness>
+      <Bounciness>0.1</Bounciness>
+      <CustomParameters>
+      </CustomParameters>
+      <CustomScript>
+        <Enabled>true</Enabled>
+        <Script><![CDATA[function Mesh42_Init()
+  registerGroundObject(Mesh42)
+end
+
+function Mesh42_Update()
+end
+
+function Mesh42_Draw()
+end
+]]></Script>
+      </CustomScript>
+    </Object>
+    <Object>
+      <Name>Mesh43</Name>
+      <FileName>Data\Objects\platforms\wood\wood.x</FileName>
+      <IsAnimated>false</IsAnimated>
+      <CustomTexture>
+      </CustomTexture>
+      <ScaleTexture>1 1</ScaleTexture>
+      <Visible>true</Visible>
+      <Position>4 2.95 -2</Position>
+      <Rotation>0 0 0</Rotation>
+      <Scale>1 1 1</Scale>
+      <Lightning>true</Lightning>
+      <Mass>10</Mass>
+      <Bounding>Box</Bounding>
+      <StaticFriction>0.5</StaticFriction>
+      <KineticFriction>0.2</KineticFriction>
+      <Softness>0.1</Softness>
+      <Bounciness>0.1</Bounciness>
+      <CustomParameters>
+      </CustomParameters>
+      <CustomScript>
+        <Enabled>true</Enabled>
+        <Script><![CDATA[function Mesh43_Init()
+  registerGroundObject(Mesh43)
+end
+
+function Mesh43_Update()
+end
+
+function Mesh43_Draw()
+end
+]]></Script>
+      </CustomScript>
+    </Object>
+  </Objects>
+  <Lights>
+    <Point>
+      <Name>PointLight4</Name>
+      <Visible>true</Visible>
+      <Position>12 9 5</Position>
+      <Radius>300</Radius>
+      <Color>255 128 0</Color>
+      <CustomParameters>
+      </CustomParameters>
+      <CustomScript>
+        <Enabled>false</Enabled>
+        <Script><![CDATA[function PointLight4_Init()
+end
+
+function PointLight4_Update()
+end
+
+function PointLight4_Draw()
+end
+]]></Script>
+      </CustomScript>
+    </Point>
+    <Point>
+      <Name>PointLight1</Name>
+      <Visible>true</Visible>
+      <Position>4 9 7</Position>
+      <Radius>300</Radius>
+      <Color>255 128 0</Color>
+      <CustomParameters>
+      </CustomParameters>
+      <CustomScript>
+        <Enabled>true</Enabled>
+        <Script><![CDATA[function PointLight1_Init()
+  
+end
+
+function PointLight1_Update()
+  
+end
+
+function PointLight1_Draw()
+  
+end
+]]></Script>
+      </CustomScript>
+    </Point>
+    <Directional>
+      <Name>DirectionalLight</Name>
+      <Visible>true</Visible>
+      <Position comment="Position value used in editor.">-15 19 -16</Position>
+      <Direction>0.5169341 -0.6547832 0.5513964</Direction>
+      <Color>255 255 0</Color>
+      <CustomParameters>
+      </CustomParameters>
+      <CustomScript>
+        <Enabled>false</Enabled>
+        <Script><![CDATA[function DirectionalLight_Init()
+end
+
+function DirectionalLight_Update()
+end
+
+function DirectionalLight_Draw()
+end
+]]></Script>
+      </CustomScript>
+    </Directional>
+  </Lights>
+  <Triggers>
+    <Trigger>
+      <Name>Trigger29</Name>
+      <Position>8 3 -16</Position>
+      <Rotation>0 0 0</Rotation>
+      <Scale>5 1 1</Scale>
+      <Color>255 0 0</Color>
+      <CustomParameters>
+        <Parameter>
+          <Name>type</Name>
+          <Value>Dead</Value>
+        </Parameter>
+      </CustomParameters>
+      <CustomScript>
+        <Enabled>false</Enabled>
+        <Script><![CDATA[function Trigger29_Init()
+end
+
+function Trigger29_Update()
+end
+
+function Trigger29_Draw()
+end
+]]></Script>
+      </CustomScript>
+    </Trigger>
+    <Trigger>
+      <Name>Trigger28</Name>
+      <Position>6 3 -6</Position>
+      <Rotation>0 89.99995 0</Rotation>
+      <Scale>1.5 1 1</Scale>
+      <Color>255 0 0</Color>
+      <CustomParameters>
+        <Parameter>
+          <Name>type</Name>
+          <Value>Dead</Value>
+        </Parameter>
+      </CustomParameters>
+      <CustomScript>
+        <Enabled>false</Enabled>
+        <Script><![CDATA[function Trigger28_Init()
+end
+
+function Trigger28_Update()
+end
+
+function Trigger28_Draw()
+end
+]]></Script>
+      </CustomScript>
+    </Trigger>
+    <Trigger>
+      <Name>Trigger27</Name>
+      <Position>-7 3 -6</Position>
+      <Rotation>0 0 0</Rotation>
+      <Scale>7 1 1</Scale>
+      <Color>255 0 0</Color>
+      <CustomParameters>
+        <Parameter>
+          <Name>type</Name>
+          <Value>Dead</Value>
+        </Parameter>
+      </CustomParameters>
+      <CustomScript>
+        <Enabled>false</Enabled>
+        <Script><![CDATA[function Trigger27_Init()
+end
+
+function Trigger27_Update()
+end
+
+function Trigger27_Draw()
+end
+]]></Script>
+      </CustomScript>
+    </Trigger>
+    <Trigger>
+      <Name>Trigger23</Name>
+      <Position>4 3 -11</Position>
+      <Rotation>0 0 0</Rotation>
+      <Scale>1 1 7</Scale>
+      <Color>255 0 0</Color>
+      <CustomParameters>
+        <Parameter>
+          <Name>type</Name>
+          <Value>Dead</Value>
+        </Parameter>
+      </CustomParameters>
+      <CustomScript>
+        <Enabled>false</Enabled>
+        <Script><![CDATA[function Trigger23_Init()
+end
+
+function Trigger23_Update()
+end
+
+function Trigger23_Draw()
+end
+]]></Script>
+      </CustomScript>
+    </Trigger>
+    <Trigger>
+      <Name>Trigger20</Name>
+      <Position>8 2 -11</Position>
+      <Rotation>0 89.99996 0</Rotation>
+      <Scale>7.5 2.2 5.5</Scale>
+      <Color>0 255 0</Color>
+      <CustomParameters>
+        <Parameter>
+          <Name>type</Name>
+          <Value>stone</Value>
+        </Parameter>
+      </CustomParameters>
+      <CustomScript>
+        <Enabled>false</Enabled>
+        <Script><![CDATA[function Trigger20_Init()
+end
+
+function Trigger20_Update()
+end
+
+function Trigger20_Draw()
+end
+]]></Script>
+      </CustomScript>
+    </Trigger>
+    <Trigger>
+      <Name>Trigger26</Name>
+      <Position>2 2 -2</Position>
+      <Rotation>0 0 0</Rotation>
+      <Scale>1 2.2 1</Scale>
+      <Color>0 255 0</Color>
+      <CustomParameters>
+        <Parameter>
+          <Name>type</Name>
+          <Value>stone</Value>
+        </Parameter>
+      </CustomParameters>
+      <CustomScript>
+        <Enabled>false</Enabled>
+        <Script><![CDATA[function Trigger26_Init()
+end
+
+function Trigger26_Update()
+end
+
+function Trigger26_Draw()
+end
+]]></Script>
+      </CustomScript>
+    </Trigger>
+    <Trigger>
+      <Name>Trigger12</Name>
+      <Position>-7 2 -2</Position>
+      <Rotation>0 0 0</Rotation>
+      <Scale>7.5 2.2 5.5</Scale>
+      <Color>0 255 0</Color>
+      <CustomParameters>
+        <Parameter>
+          <Name>type</Name>
+          <Value>stone</Value>
+        </Parameter>
+      </CustomParameters>
+      <CustomScript>
+        <Enabled>false</Enabled>
+        <Script><![CDATA[function Trigger12_Init()
+end
+
+function Trigger12_Update()
+end
+
+function Trigger12_Draw()
+end
+]]></Script>
+      </CustomScript>
+    </Trigger>
+    <Trigger>
+      <Name>Trigger11</Name>
+      <Position>8 2 -5</Position>
+      <Rotation>0 89.99995 0</Rotation>
+      <Scale>3 2.2 1</Scale>
+      <Color>0 255 0</Color>
+      <CustomParameters>
+        <Parameter>
+          <Name>type</Name>
+          <Value>stone</Value>
+        </Parameter>
+      </CustomParameters>
+      <CustomScript>
+        <Enabled>false</Enabled>
+        <Script><![CDATA[function Trigger11_Init()
+end
+
+function Trigger11_Update()
+end
+
+function Trigger11_Draw()
+end
+]]></Script>
+      </CustomScript>
+    </Trigger>
+    <Trigger>
+      <Name>Trigger10</Name>
+      <Position>10 3 -4</Position>
+      <Rotation>0 89.99995 0</Rotation>
+      <Scale>5 1 1</Scale>
+      <Color>255 0 0</Color>
+      <CustomParameters>
+        <Parameter>
+          <Name>type</Name>
+          <Value>Dead</Value>
+        </Parameter>
+      </CustomParameters>
+      <CustomScript>
+        <Enabled>false</Enabled>
+        <Script><![CDATA[function Trigger10_Init()
+end
+
+function Trigger10_Update()
+end
+
+function Trigger10_Draw()
+end
+]]></Script>
+      </CustomScript>
+    </Trigger>
+    <Trigger>
+      <Name>Trigger25</Name>
+      <Position>-12 3 -2</Position>
+      <Rotation>0 89.99996 0</Rotation>
+      <Scale>5 1 1</Scale>
+      <Color>255 0 0</Color>
+      <CustomParameters>
+        <Parameter>
+          <Name>type</Name>
+          <Value>Dead</Value>
+        </Parameter>
+      </CustomParameters>
+      <CustomScript>
+        <Enabled>false</Enabled>
+        <Script><![CDATA[function Trigger25_Init()
+end
+
+function Trigger25_Update()
+end
+
+function Trigger25_Draw()
+end
+]]></Script>
+      </CustomScript>
+    </Trigger>
+    <Trigger>
+      <Name>Trigger24</Name>
+      <Position>2 3 -4</Position>
+      <Rotation>0 0 0</Rotation>
+      <Scale>9 1 1</Scale>
+      <Color>255 0 0</Color>
+      <CustomParameters>
+        <Parameter>
+          <Name>type</Name>
+          <Value>Dead</Value>
+        </Parameter>
+      </CustomParameters>
+      <CustomScript>
+        <Enabled>false</Enabled>
+        <Script><![CDATA[function Trigger24_Init()
+end
+
+function Trigger24_Update()
+end
+
+function Trigger24_Draw()
+end
+]]></Script>
+      </CustomScript>
+    </Trigger>
+    <Trigger>
+      <Name>Trigger32</Name>
+      <Position>12 3 -11</Position>
+      <Rotation>0 0 0</Rotation>
+      <Scale>1 1 7</Scale>
+      <Color>255 0 0</Color>
+      <CustomParameters>
+        <Parameter>
+          <Name>type</Name>
+          <Value>Dead</Value>
+        </Parameter>
+      </CustomParameters>
+      <CustomScript>
+        <Enabled>false</Enabled>
+        <Script><![CDATA[function Trigger32_Init()
+end
+
+function Trigger32_Update()
+end
+
+function Trigger32_Draw()
+end
+]]></Script>
+      </CustomScript>
+    </Trigger>
+    <Trigger>
+      <Name>Finish</Name>
+      <Position>8 3 -12</Position>
+      <Rotation>0 0 0</Rotation>
+      <Scale>1 1 1</Scale>
+      <Color>0 0 255</Color>
+      <CustomParameters>
+        <Parameter>
+          <Name>type</Name>
+          <Value>finish</Value>
+        </Parameter>
+      </CustomParameters>
+      <CustomScript>
+        <Enabled>true</Enabled>
+        <Script><![CDATA[function Finish_Init()
+	FinishPrc:AttachTo(Finish)
+end
+
+function Finish_Update()
+end
+
+function Finish_Draw()
+end
+]]></Script>
+      </CustomScript>
+    </Trigger>
+    <Trigger>
+      <Name>Trigger16</Name>
+      <Position>3 3 0</Position>
+      <Rotation>0 0 0</Rotation>
+      <Scale>11 1 1</Scale>
+      <Color>255 0 0</Color>
+      <CustomParameters>
+        <Parameter>
+          <Name>type</Name>
+          <Value>Dead</Value>
+        </Parameter>
+      </CustomParameters>
+      <CustomScript>
+        <Enabled>false</Enabled>
+        <Script><![CDATA[function Trigger16_Init()
+end
+
+function Trigger16_Update()
+end
+
+function Trigger16_Draw()
+end
+]]></Script>
+      </CustomScript>
+    </Trigger>
+    <Trigger>
+      <Name>Trigger18</Name>
+      <Position>-7 3 2</Position>
+      <Rotation>0 0 0</Rotation>
+      <Scale>7 1 1</Scale>
+      <Color>255 0 0</Color>
+      <CustomParameters>
+        <Parameter>
+          <Name>type</Name>
+          <Value>Dead</Value>
+        </Parameter>
+      </CustomParameters>
+      <CustomScript>
+        <Enabled>false</Enabled>
+        <Script><![CDATA[function Trigger18_Init()
+end
+
+function Trigger18_Update()
+end
+
+function Trigger18_Draw()
+end
+]]></Script>
+      </CustomScript>
+    </Trigger>
+    <Trigger>
+      <Name>Trigger13</Name>
+      <Position>7 2 -2</Position>
+      <Rotation>0 0 0</Rotation>
+      <Scale>3 2.2 1</Scale>
+      <Color>0 255 0</Color>
+      <CustomParameters>
+        <Parameter>
+          <Name>type</Name>
+          <Value>stone</Value>
+        </Parameter>
+      </CustomParameters>
+      <CustomScript>
+        <Enabled>false</Enabled>
+        <Script><![CDATA[function Trigger13_Init()
+end
+
+function Trigger13_Update()
+end
+
+function Trigger13_Draw()
+end
+]]></Script>
+      </CustomScript>
+    </Trigger>
+    <Trigger>
+      <Name>Trigger14</Name>
+      <Position>-2 2 -2</Position>
+      <Rotation>0 0 0</Rotation>
+      <Scale>1 2.2 1</Scale>
+      <Color>0 255 0</Color>
+      <CustomParameters>
+        <Parameter>
+          <Name>type</Name>
+          <Value>stone</Value>
+        </Parameter>
+      </CustomParameters>
+      <CustomScript>
+        <Enabled>false</Enabled>
+        <Script><![CDATA[function Trigger14_Init()
+end
+
+function Trigger14_Update()
+end
+
+function Trigger14_Draw()
+end
+]]></Script>
+      </CustomScript>
+    </Trigger>
+    <Trigger>
+      <Name>Trigger17</Name>
+      <Position>4 2 -2</Position>
+      <Rotation>0 0 0</Rotation>
+      <Scale>1 2.2 1</Scale>
+      <Color>0 128 255</Color>
+      <CustomParameters>
+        <Parameter>
+          <Name>type</Name>
+          <Value>wood</Value>
+        </Parameter>
+      </CustomParameters>
+      <CustomScript>
+        <Enabled>false</Enabled>
+        <Script><![CDATA[function Trigger17_Init()
+end
+
+function Trigger17_Update()
+end
+
+function Trigger17_Draw()
+end
+]]></Script>
+      </CustomScript>
+    </Trigger>
+    <Trigger>
+      <Name>Trigger19</Name>
+      <Position>0 2 -2</Position>
+      <Rotation>0 0 0</Rotation>
+      <Scale>1 2.2 1</Scale>
+      <Color>0 128 255</Color>
+      <CustomParameters>
+        <Parameter>
+          <Name>type</Name>
+          <Value>wood</Value>
+        </Parameter>
+      </CustomParameters>
+      <CustomScript>
+        <Enabled>false</Enabled>
+        <Script><![CDATA[function Trigger19_Init()
+end
+
+function Trigger19_Update()
+end
+
+function Trigger19_Draw()
+end
+]]></Script>
+      </CustomScript>
+    </Trigger>
+    <Trigger>
+      <Name>Trigger21</Name>
+      <Position>4 2 -2</Position>
+      <Rotation>0 89.99996 0</Rotation>
+      <Scale>0.5 2.4 0.5</Scale>
+      <Color>255 255 0</Color>
+      <CustomParameters>
+        <Parameter>
+          <Name>type</Name>
+          <Value>DeadWood</Value>
+        </Parameter>
+      </CustomParameters>
+      <CustomScript>
+        <Enabled>false</Enabled>
+        <Script><![CDATA[function Trigger21_Init()
+end
+
+function Trigger21_Update()
+end
+
+function Trigger21_Draw()
+end
+]]></Script>
+      </CustomScript>
+    </Trigger>
+    <Trigger>
+      <Name>Trigger22</Name>
+      <Position>0 2 -2</Position>
+      <Rotation>0 89.99996 0</Rotation>
+      <Scale>0.5 2.4 0.5</Scale>
+      <Color>255 255 0</Color>
+      <CustomParameters>
+        <Parameter>
+          <Name>type</Name>
+          <Value>DeadWood</Value>
+        </Parameter>
+      </CustomParameters>
+      <CustomScript>
+        <Enabled>false</Enabled>
+        <Script><![CDATA[function Trigger22_Init()
+end
+
+function Trigger22_Update()
+end
+
+function Trigger22_Draw()
+end
+]]></Script>
+      </CustomScript>
+    </Trigger>
+  </Triggers>
+  <Sounds />
+  <Particles />
+  <WaterPlanes />
+  <Sky>
+    <SkyBox>
+      <FrontTexture>Data\Textures\skies\red\2.png</FrontTexture>
+      <BackTexture>Data\Textures\skies\red\4.png</BackTexture>
+      <LeftTexture>Data\Textures\skies\red\3.png</LeftTexture>
+      <RightTexture>Data\Textures\skies\red\1.png</RightTexture>
+      <TopTexture>Data\Textures\skies\red\6.png</TopTexture>
+      <BottomTexture>Data\Textures\skies\red\5.png</BottomTexture>
+      <CustomParameters>
+      </CustomParameters>
+      <CustomScript>
+        <Enabled>false</Enabled>
+        <Script><![CDATA[function SkyBox_Init()
+  
+end
+
+function SkyBox_Update()
+  
+end
+
+function SkyBox_Draw()
+  
+end
+]]></Script>
+      </CustomScript>
+    </SkyBox>
+  </Sky>
+  <Editor>
+    <CamPosition>-7.643657 10.30184 -18.43899</CamPosition>
+    <CamLookAt>-7.245879 9.882962 -17.62271</CamLookAt>
+  </Editor>
+</Scene>

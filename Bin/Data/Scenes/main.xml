@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Scene>
+  <Objects />
+  <Lights />
+  <Triggers>
+    <Trigger>
+      <Name>Trigger1</Name>
+      <Position>1 15 -7</Position>
+      <Rotation>0 0 0</Rotation>
+      <Scale>1 1 1</Scale>
+      <Color>0 255 0</Color>
+      <CustomParameters>
+      </CustomParameters>
+      <CustomScript>
+        <Enabled>true</Enabled>
+        <Script><![CDATA[function Trigger1_Init()
+end
+
+function Trigger1_Update()
+	Camera:RotateY(0.01)
+end
+
+function Trigger1_Draw()
+end
+]]></Script>
+      </CustomScript>
+    </Trigger>
+  </Triggers>
+  <Sounds />
+  <Particles />
+  <WaterPlanes />
+  <Sky>
+    <SkyBox>
+      <FrontTexture>Data\Textures\skies\red\2.png</FrontTexture>
+      <BackTexture>Data\Textures\skies\red\4.png</BackTexture>
+      <LeftTexture>Data\Textures\skies\red\3.png</LeftTexture>
+      <RightTexture>Data\Textures\skies\red\1.png</RightTexture>
+      <TopTexture>Data\Textures\skies\red\6.png</TopTexture>
+      <BottomTexture>Data\Textures\skies\red\5.png</BottomTexture>
+      <CustomParameters>
+      </CustomParameters>
+      <CustomScript>
+        <Enabled>false</Enabled>
+        <Script><![CDATA[function SkyBox_Init()
+  
+end
+
+function SkyBox_Update()
+  
+end
+
+function SkyBox_Draw()
+  
+end
+]]></Script>
+      </CustomScript>
+    </SkyBox>
+  </Sky>
+  <Editor>
+    <CamPosition>0.4739069 17.7442 -16.67325</CamPosition>
+    <CamLookAt>0.4887072 17.4377 -15.72149</CamLookAt>
+  </Editor>
+</Scene>

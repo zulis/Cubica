@@ -1,0 +1,375 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Scene>
+  <Objects />
+  <Lights />
+  <Triggers />
+  <Sounds>
+    <Sound>
+      <Name>CubeWinSound</Name>
+      <FileName>Data\Sounds\cube\status\win.wav</FileName>
+      <Position>6 6 33</Position>
+      <Volume>0.5</Volume>
+      <Stopped>true</Stopped>
+      <Loop>false</Loop>
+      <Is3D>false</Is3D>
+      <CustomParameters>
+      </CustomParameters>
+      <CustomScript>
+        <Enabled>false</Enabled>
+        <Script><![CDATA[function CubeWinSound_Init()
+end
+
+function CubeWinSound_Update()
+end
+
+function CubeWinSound_Draw()
+end
+]]></Script>
+      </CustomScript>
+    </Sound>
+    <Sound>
+      <Name>CubeStartSound</Name>
+      <FileName>Data\Sounds\cube\start\start.wav</FileName>
+      <Position>5 6 33</Position>
+      <Volume>0.7</Volume>
+      <Stopped>true</Stopped>
+      <Loop>false</Loop>
+      <Is3D>false</Is3D>
+      <CustomParameters>
+      </CustomParameters>
+      <CustomScript>
+        <Enabled>false</Enabled>
+        <Script><![CDATA[function CubeStartSound_Init()
+end
+
+function CubeStartSound_Update()
+end
+
+function CubeStartSound_Draw()
+end
+]]></Script>
+      </CustomScript>
+    </Sound>
+    <Sound>
+      <Name>OnWood3</Name>
+      <FileName>Data\Sounds\cube\rotate\wood3.wav</FileName>
+      <Position>7 3 33</Position>
+      <Volume>1</Volume>
+      <Stopped>true</Stopped>
+      <Loop>false</Loop>
+      <Is3D>false</Is3D>
+      <CustomParameters>
+        <Parameter>
+          <Name>type</Name>
+          <Value>wood</Value>
+        </Parameter>
+      </CustomParameters>
+      <CustomScript>
+        <Enabled>true</Enabled>
+        <Script><![CDATA[function OnWood3_Init()
+	registerSound(OnWood3)
+end
+]]></Script>
+      </CustomScript>
+    </Sound>
+    <Sound>
+      <Name>OnWood2</Name>
+      <FileName>Data\Sounds\cube\rotate\wood2.wav</FileName>
+      <Position>6 3 33</Position>
+      <Volume>1</Volume>
+      <Stopped>true</Stopped>
+      <Loop>false</Loop>
+      <Is3D>false</Is3D>
+      <CustomParameters>
+        <Parameter>
+          <Name>type</Name>
+          <Value>wood</Value>
+        </Parameter>
+      </CustomParameters>
+      <CustomScript>
+        <Enabled>true</Enabled>
+        <Script><![CDATA[function OnWood2_Init()
+	registerSound(OnWood2)
+end
+]]></Script>
+      </CustomScript>
+    </Sound>
+    <Sound>
+      <Name>OnWood1</Name>
+      <FileName>Data\Sounds\cube\rotate\wood1.wav</FileName>
+      <Position>5 3 33</Position>
+      <Volume>1</Volume>
+      <Stopped>true</Stopped>
+      <Loop>false</Loop>
+      <Is3D>false</Is3D>
+      <CustomParameters>
+        <Parameter>
+          <Name>type</Name>
+          <Value>wood</Value>
+        </Parameter>
+      </CustomParameters>
+      <CustomScript>
+        <Enabled>true</Enabled>
+        <Script><![CDATA[function OnWood1_Init()
+	registerSound(OnWood1)
+end
+]]></Script>
+      </CustomScript>
+    </Sound>
+    <Sound>
+      <Name>OnMetal3</Name>
+      <FileName>Data\Sounds\cube\rotate\metal3.wav</FileName>
+      <Position>7 4 33</Position>
+      <Volume>1</Volume>
+      <Stopped>true</Stopped>
+      <Loop>false</Loop>
+      <Is3D>false</Is3D>
+      <CustomParameters>
+        <Parameter>
+          <Name>type</Name>
+          <Value>metal</Value>
+        </Parameter>
+      </CustomParameters>
+      <CustomScript>
+        <Enabled>true</Enabled>
+        <Script><![CDATA[function OnMetal3_Init()
+	registerSound(OnMetal3)
+end
+]]></Script>
+      </CustomScript>
+    </Sound>
+    <Sound>
+      <Name>OnMetal2</Name>
+      <FileName>Data\Sounds\cube\rotate\metal2.wav</FileName>
+      <Position>6 4 33</Position>
+      <Volume>1</Volume>
+      <Stopped>true</Stopped>
+      <Loop>false</Loop>
+      <Is3D>false</Is3D>
+      <CustomParameters>
+        <Parameter>
+          <Name>type</Name>
+          <Value>metal</Value>
+        </Parameter>
+      </CustomParameters>
+      <CustomScript>
+        <Enabled>true</Enabled>
+        <Script><![CDATA[function OnMetal2_Init()
+	registerSound(OnMetal2)
+end
+]]></Script>
+      </CustomScript>
+    </Sound>
+    <Sound>
+      <Name>OnMetal1</Name>
+      <FileName>Data\Sounds\cube\rotate\metal1.wav</FileName>
+      <Position>5 4 33</Position>
+      <Volume>1</Volume>
+      <Stopped>true</Stopped>
+      <Loop>false</Loop>
+      <Is3D>false</Is3D>
+      <CustomParameters>
+        <Parameter>
+          <Name>type</Name>
+          <Value>metal</Value>
+        </Parameter>
+      </CustomParameters>
+      <CustomScript>
+        <Enabled>true</Enabled>
+        <Script><![CDATA[function OnMetal1_Init()
+	registerSound(OnMetal1)
+end
+]]></Script>
+      </CustomScript>
+    </Sound>
+    <Sound>
+      <Name>OnStone1</Name>
+      <FileName>Data\Sounds\cube\rotate\stone1.wav</FileName>
+      <Position>5 5 33</Position>
+      <Volume>1</Volume>
+      <Stopped>true</Stopped>
+      <Loop>false</Loop>
+      <Is3D>false</Is3D>
+      <CustomParameters>
+        <Parameter>
+          <Name>type</Name>
+          <Value>stone</Value>
+        </Parameter>
+      </CustomParameters>
+      <CustomScript>
+        <Enabled>true</Enabled>
+        <Script><![CDATA[function OnStone1_Init()
+	registerSound(OnStone1)
+end
+]]></Script>
+      </CustomScript>
+    </Sound>
+    <Sound>
+      <Name>OnStone2</Name>
+      <FileName>Data\Sounds\cube\rotate\stone2.wav</FileName>
+      <Position>6 5 33</Position>
+      <Volume>1</Volume>
+      <Stopped>true</Stopped>
+      <Loop>false</Loop>
+      <Is3D>false</Is3D>
+      <CustomParameters>
+        <Parameter>
+          <Name>type</Name>
+          <Value>stone</Value>
+        </Parameter>
+      </CustomParameters>
+      <CustomScript>
+        <Enabled>true</Enabled>
+        <Script><![CDATA[function OnStone2_Init()
+	registerSound(OnStone2)
+end
+]]></Script>
+      </CustomScript>
+    </Sound>
+    <Sound>
+      <Name>OnStone3</Name>
+      <FileName>Data\Sounds\cube\rotate\stone3.wav</FileName>
+      <Position>7 5 33</Position>
+      <Volume>1</Volume>
+      <Stopped>true</Stopped>
+      <Loop>false</Loop>
+      <Is3D>false</Is3D>
+      <CustomParameters>
+        <Parameter>
+          <Name>type</Name>
+          <Value>stone</Value>
+        </Parameter>
+      </CustomParameters>
+      <CustomScript>
+        <Enabled>true</Enabled>
+        <Script><![CDATA[function OnStone3_Init()
+	registerSound(OnStone3)
+end
+]]></Script>
+      </CustomScript>
+    </Sound>
+    <Sound>
+      <Name>OnStone4</Name>
+      <FileName>Data\Sounds\cube\rotate\stone4.wav</FileName>
+      <Position>8 5 33</Position>
+      <Volume>1</Volume>
+      <Stopped>true</Stopped>
+      <Loop>false</Loop>
+      <Is3D>false</Is3D>
+      <CustomParameters>
+        <Parameter>
+          <Name>type</Name>
+          <Value>stone</Value>
+        </Parameter>
+      </CustomParameters>
+      <CustomScript>
+        <Enabled>true</Enabled>
+        <Script><![CDATA[function OnStone4_Init()
+	registerSound(OnStone4)
+end
+
+]]></Script>
+      </CustomScript>
+    </Sound>
+    <Sound>
+      <Name>OnStone5</Name>
+      <FileName>Data\Sounds\cube\rotate\stone5.wav</FileName>
+      <Position>9 5 33</Position>
+      <Volume>1</Volume>
+      <Stopped>true</Stopped>
+      <Loop>false</Loop>
+      <Is3D>false</Is3D>
+      <CustomParameters>
+        <Parameter>
+          <Name>type</Name>
+          <Value>stone</Value>
+        </Parameter>
+      </CustomParameters>
+      <CustomScript>
+        <Enabled>true</Enabled>
+        <Script><![CDATA[function OnStone5_Init()
+	registerSound(OnStone5)
+end
+]]></Script>
+      </CustomScript>
+    </Sound>
+    <Sound>
+      <Name>OnStone6</Name>
+      <FileName>Data\Sounds\cube\rotate\stone6.wav</FileName>
+      <Position>10 5 33</Position>
+      <Volume>1</Volume>
+      <Stopped>true</Stopped>
+      <Loop>false</Loop>
+      <Is3D>false</Is3D>
+      <CustomParameters>
+        <Parameter>
+          <Name>type</Name>
+          <Value>stone</Value>
+        </Parameter>
+      </CustomParameters>
+      <CustomScript>
+        <Enabled>true</Enabled>
+        <Script><![CDATA[function OnStone6_Init()
+	registerSound(OnStone6)
+end
+]]></Script>
+      </CustomScript>
+    </Sound>
+    <Sound>
+      <Name>CubeDeadSound</Name>
+      <FileName>Data\Sounds\cube\status\dead.wav</FileName>
+      <Position>7 6 33</Position>
+      <Volume>1</Volume>
+      <Stopped>true</Stopped>
+      <Loop>false</Loop>
+      <Is3D>false</Is3D>
+      <CustomParameters>
+      </CustomParameters>
+      <CustomScript>
+        <Enabled>false</Enabled>
+        <Script><![CDATA[function CubeDeadSound_Init()
+end
+
+function CubeDeadSound_Update()
+end
+
+function CubeDeadSound_Draw()
+end
+]]></Script>
+      </CustomScript>
+    </Sound>
+  </Sounds>
+  <Particles>
+    <Particle>
+      <Name>FinishPrc</Name>
+      <FileName>Data\Particles\finish.tvp</FileName>
+      <Position>14.54442 9.268711 24.69485</Position>
+      <Rotation>0 0 0</Rotation>
+      <Scale>0.03 0.05 0.03</Scale>
+      <Visible>true</Visible>
+      <CustomParameters>
+      </CustomParameters>
+      <CustomScript>
+        <Enabled>false</Enabled>
+        <Script><![CDATA[function FinishPrc_Init()
+  
+end
+
+function FinishPrc_Update()
+  
+end
+
+function FinishPrc_Draw()
+  
+end
+]]></Script>
+      </CustomScript>
+    </Particle>
+  </Particles>
+  <WaterPlanes />
+  <Sky />
+  <Editor>
+    <CamPosition>2.397849 16.66 13.10437</CamPosition>
+    <CamLookAt>2.981654 16.323 13.84302</CamLookAt>
+  </Editor>
+</Scene>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Scenes>
+  <Scene Id="1" Name="Tutorial" IsTutorial="true" File="data/scenes/scene0.xml"></Scene>
+  <Scene Id="2" Name="1. Quadrumi" File="data/scenes/scene1.xml"></Scene>
+  <Scene Id="3" Name="2. Mesaulos" File="data/scenes/scene2.xml"></Scene>
+  <Scene Id="4" Name="3. Piscis" File="data/scenes/scene3.xml"></Scene>
+  <Scene Id="5" Name="4. Cordis" File="data/scenes/scene4.xml"></Scene>
+  <Scene Id="6" Name="Tutorial" IsTutorial="true" File="data/scenes/scene5.xml"></Scene>
+  <Scene Id="7" Name="5. Malleus" File="data/scenes/scene6.xml"></Scene>
+  <Scene Id="8" Name="6. Horologium" File="data/scenes/scene7.xml"></Scene>
+</Scenes>
