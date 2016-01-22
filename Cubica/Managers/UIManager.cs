@@ -28,7 +28,6 @@ namespace Cubica.Managers
             ScriptManager.SetGlobal("isLastScene", false);
 
             webCore = new WebCore(LogLevel.None);
-            //menuList = new List<UIView>();
             gameMenu = new Dictionary<UIView, bool>();
 
             // Load main menu

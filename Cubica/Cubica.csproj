@@ -71,6 +71,7 @@
     <Reference Include="LuaInterface">
       <HintPath>..\External\Lua\LuaInterface.dll</HintPath>
     </Reference>
+    <Reference Include="Microsoft.VisualC" />
     <Reference Include="MTV3D65">
       <HintPath>..\External\TV3D\MTV3D65.dll</HintPath>
     </Reference>
@@ -209,6 +210,7 @@
     <PostBuildEvent>copy ..\External\Lua\lua51.dll $(OutDir)
 copy ..\External\Awesomium\Awesomium.dll $(OutDir)
 copy ..\External\Awesomium\icudt38.dll $(OutDir)
-copy ..\External\irrKlang\ikpMP3.dll $(OutDir)</PostBuildEvent>
+copy ..\External\irrKlang\ikpMP3.dll $(OutDir)
+copy ..\External\TV3D\msvcr71.dll $(OutDir)</PostBuildEvent>
   </PropertyGroup>
 </Project>

@@ -83,6 +83,7 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\External\irrKlang\irrKlang.NET2.0.dll</HintPath>
     </Reference>
+    <Reference Include="Microsoft.VisualC" />
     <Reference Include="MTV3D65, Version=6.5.3602.42214, Culture=neutral, PublicKeyToken=50ecc2ceb76bb228">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\External\TV3D\MTV3D65.dll</HintPath>
